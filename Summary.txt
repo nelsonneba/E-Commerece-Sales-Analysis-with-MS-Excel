@@ -1,0 +1,35 @@
+Overview
+This project involved an in-depth analysis of an e-commerce platform’s dataset, utilizing data cleaning, transformation, and visualization methods to extract meaningful insights. The objective was to enhance strategic decision-making by identifying key sales patterns and trends.
+
+Key Steps
+
+Data Cleaning
+- Conducted a detailed review of all dataset fields to determine columns useful for insightful analysis.
+- Addressed missing and inconsistent values to maintain data accuracy and reliability.
+
+Data Transformation
+- Standardized units for consistency, particularly in currency-related fields.
+- Added a new column extracting the month from the date field to enable monthly sales and revenue tracking.
+
+Data Visualization
+
+Sales vs. Profit Monthly Comparison
+- Created a visual representation comparing monthly sales and profit trends to assess financial performance.
+
+Category-wise Profit Analysis
+- Analyzed and visualized profits by product category to identify high-performing areas.
+
+Category-wise Sales Share Percentage
+- Illustrated the proportion of sales each product category contributes to overall revenue.
+
+Top 5 Selling Sub-categories
+- Identified and highlighted the best-performing sub-categories, showcasing top-demand products.
+
+Key Performance Index (KPI) Charts
+- Developed KPI metrics for Sales, Profit, Quantity, and the total number of orders, providing a comprehensive business performance overview.
+
+Interactive Slicer Integration
+- Implemented interactive slicers linked to visual elements, enabling dynamic filtering by Year, Region, and Segment for deeper insights.
+
+Conclusion
+By conducting a thorough analysis of the e-commerce dataset, this project has revealed crucial insights to support strategic decision-making. The findings suggest that focusing on high-revenue regions and capitalizing on peak sales months can drive significant business growth and improve overall profitability.
